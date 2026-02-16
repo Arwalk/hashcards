@@ -1,7 +1,7 @@
 run:
     jj rebase -s drill -d main
     jj edit drill
-    cd cards && hashcards check
-    cd cards && hashcards drill
+    hashcards check cards
+    hashcards drill cards
     jj git push
     jj edit main

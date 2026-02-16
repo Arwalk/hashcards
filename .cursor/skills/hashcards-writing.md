@@ -308,3 +308,4 @@ Before finalizing a deck:
 - [ ] No duplicate cards
 - [ ] Cards are atomic (one fact per card)
 - [ ] Questions are clear and unambiguous
+- [ ] Run `hashcards check cards` to ensure everything is ok.
