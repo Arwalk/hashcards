@@ -1,3 +1,5 @@
+set windows-shell := ["powershell.exe", "-c"]
+
 run:
     jj git fetch
     jj rebase -s drill -d main
