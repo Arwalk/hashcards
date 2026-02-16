@@ -4,4 +4,4 @@ run:
     hashcards check cards
     hashcards drill cards
     jj git push
-    jj edit main
+    jj new main
