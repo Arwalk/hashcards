@@ -62,3 +62,8 @@ A: Pair programming mindset—leveraging AI as a learning and productivity partn
 ---
 
 C: AI-assisted coding combines [technical best practices] with a [collaborative, iterative] mindset.
+
+---
+
+Q: Which tool can you use to start spec-driven development?
+A: Spec-kit, whose program is specify.
